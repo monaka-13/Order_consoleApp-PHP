@@ -10,7 +10,6 @@ define("PRICES", [
   "C" => 40
 ]);
 define("DISCOUNT_RATES", [
-  0 => 0,
   200 => 0.05,
   300 => 0.1,
   500 => 0.15,
